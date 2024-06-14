@@ -32,3 +32,9 @@ Parmi ces services,<b> Vertex AI</b> est la plateforme de machine learning de GC
 ### Azure et Azure Machine Learning
 
 <b> Microsoft Azure</b> est une plateforme de cloud computing de Microsoft, qui propose une gamme étendue de services pour le développement, le déploiement et la gestion d'applications à travers un réseau global de datacenters. Azure offre une variété de services, notamment des machines virtuelles, des bases de données, des réseaux, des analyses de données, et bien plus encore.
+<b>Azure Machine Learning (AML)</b> permet de préparer, entraîner, déployer et gérer des modèles de machine learning à grande échelle, avec des fonctionnalités comme AutoML et l’intégration DevOps. Utilisé dans des secteurs variés (santé, finance, industrie), AML facilite l’innovation grâce à ses outils avancés.
+
+
+### DataRobot
+
+<b> DataRobot</b> est une plateforme d'intelligence artificielle automatisée (AutoML) qui aide les entreprises à construire, déployer et gérer des modèles de machine learning rapidement et efficacement. Elle permet aux utilisateurs de charger des données, de sélectionner des cibles, et d’automatiser le processus de modélisation, y compris la sélection des algorithmes et l'optimisation des hyperparamètres. Utilisée dans divers secteurs tels que la finance, la santé et le marketing, DataRobot propose des outils pour la surveillance des modèles en production et l'interprétation des résultats.
