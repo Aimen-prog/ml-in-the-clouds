@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/OneDrive/Bureau/ml-in-the-clouds/ml-in-the-clouds/mlruns/514332223038748430/7b90210e955749c2a2df76cabc60e9b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '514332223038748430'
+lifecycle_stage: active
+run_id: 7b90210e955749c2a2df76cabc60e9b4
+run_name: Session Initialized 47c3
+run_uuid: 7b90210e955749c2a2df76cabc60e9b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718452396205
+status: 1
+tags: []
+user_id: cheri

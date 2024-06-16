@@ -1,5 +1,11 @@
 
-# ML In The Clouds
+# ML In The Clouds ☁️
+
+Ce projet vise à explorer la capacité des modèles de classification multi-classes à identifier différentes émotions humaines. 
+
+![alt akatsuki](/images/akatsuki.jpg)
+
+
 ## Documentation - Veille scientifique
 
 ### AutoML

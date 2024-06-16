@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/OneDrive/Bureau/ml-in-the-clouds/ml-in-the-clouds/mlruns/514332223038748430/af645bd58640494c8356e7df033f8931/artifacts
+end_time: 1718453393186
+entry_point_name: ''
+experiment_id: '514332223038748430'
+lifecycle_stage: active
+run_id: af645bd58640494c8356e7df033f8931
+run_name: Random Forest Classifier
+run_uuid: af645bd58640494c8356e7df033f8931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718453387777
+status: 3
+tags: []
+user_id: cheri
