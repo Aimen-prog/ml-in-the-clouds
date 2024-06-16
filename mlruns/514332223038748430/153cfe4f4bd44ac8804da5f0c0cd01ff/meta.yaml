@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/OneDrive/Bureau/ml-in-the-clouds/ml-in-the-clouds/mlruns/514332223038748430/153cfe4f4bd44ac8804da5f0c0cd01ff/artifacts
+end_time: 1718447790355
+entry_point_name: ''
+experiment_id: '514332223038748430'
+lifecycle_stage: active
+run_id: 153cfe4f4bd44ac8804da5f0c0cd01ff
+run_name: Logistic Regression
+run_uuid: 153cfe4f4bd44ac8804da5f0c0cd01ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718447787551
+status: 3
+tags: []
+user_id: cheri

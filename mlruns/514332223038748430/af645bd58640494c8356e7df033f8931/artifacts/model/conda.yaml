@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- pip<=24.0
+- pip:
+  - mlflow==2.13.0
+  - pycaret==3.3.2
+name: Emotion_Classification-env
